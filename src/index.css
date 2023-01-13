@@ -13,7 +13,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: Verdana;
-  background: linear-gradient(#d80e0e, #212123);
+  background: linear-gradient(#36d80e, #212123);
 }
 
 .caixa__login {
@@ -66,7 +66,7 @@ body {
 .caixa__login .caixa__login-input input:valid ~ label {
   top: -20px;
   left: 0;
-  color: #251f72;
+  color: #87af59;
   font-size: 12px;
 }
 
@@ -74,7 +74,7 @@ body {
   position: relative;
   display: inline-block;
   padding: 10px 20px;
-  color: #8b80f9;
+  color: #6cd887;
   font-size: 16px;
   text-decoration: none;
   text-transform: uppercase;
@@ -161,7 +161,7 @@ body {
   left: 0;
   width: 2px;
   height: 100%;
-  background: linear-gradient(360deg, transparent, #c0f980);
+  background: linear-gradient(360deg, transparent, #000000);
   animation: animacaoBotao4 1s linear infinite;
   animation-delay: 0.75s;
 }
